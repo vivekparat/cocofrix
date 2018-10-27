@@ -1,0 +1,2 @@
+# cocofrix
+Cocofrix is an IT company which is established to address the issues related to accessing computers by persons with sensory restrictions. Accessibility is a matter of affordability as well. Accessibility has continued to be an issue since the very begining of human history. So we, Cocofrix is here to develop, maintain, improve, distribute, and train free and open source assistive technologies. 'Accessible Coconut' is a GNU/Linux operating system which we have customized for an eyes free environment. 
